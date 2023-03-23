@@ -3,3 +3,5 @@ print('Labas pasauli')
 print('Pakeitimai')
 
 print('Dar vienas pakeitimas ')
+
+print(' dar vienas ')
